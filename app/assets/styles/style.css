@@ -1,0 +1,7 @@
+
+$main:blue;
+body{
+
+    background-color: blue;
+    color: $main;
+}
